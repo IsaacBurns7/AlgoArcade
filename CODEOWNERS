@@ -1,0 +1,8 @@
+# Code owners are requested for review on every pull request that touches their paths.
+# One approval from a listed owner satisfies the review rule on main.
+# Code owners need write access, so only the PMs are listed. Members review too; their
+# reviews are welcome and do not count toward the required approval.
+
+* @sahil-d-patel
+
+# Add Akshaj's handle to the line above once he has write access: * @sahil-d-patel @<akshaj>
